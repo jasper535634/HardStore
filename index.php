@@ -1,6 +1,5 @@
-<html>
-    <body>
-        <h1>testeltyje</h1>
-        <p>test</p>
-    </body>
-</html>
+<?php include "header.php"?>
+<article>
+    <p>dit is de index pagina</p>
+</article>
+<?php include "footer.php"?>
