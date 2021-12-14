@@ -1,27 +1,27 @@
-ul.horizontal {
+body {
+    background-color: #D0CECE;
+}
+
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #FFFFFF;
 }
 
-ul.horizontal li {
+li {
     float: left;
 }
 
-ul.horizontal li a {
-    display: inline-block;
-    color: white;
+li a {
+    display: block;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-ul.horizontal li a:hover:not(.active) {
-    background-color: #000;
-}
-
-ul.horizontal li a.active {
-    background-color:#04AA6D;
+li a:hover {
+    background-color: gray;
 }
