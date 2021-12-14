@@ -1,5 +1,7 @@
 body {
     background-color: #D0CECE;
+    max-width: 100%;
+    margin: 0;
 }
 
 ul {
@@ -24,4 +26,16 @@ li a {
 
 li a:hover {
     background-color: gray;
+}
+
+.footer{
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+}
+
+article {
+    height: 500px;
 }
