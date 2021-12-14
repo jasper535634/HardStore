@@ -25,3 +25,8 @@ li a {
 li a:hover {
     background-color: gray;
 }
+
+.logo{
+    position: relative;
+    left: 1020px;
+}
