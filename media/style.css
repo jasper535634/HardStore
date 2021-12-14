@@ -45,3 +45,92 @@ article {
     position: relative;
     left: 1020px;
 }
+
+.parent {
+    background: white;
+    height: 75vh;
+    width: 75vw;
+    padding: 1em;
+  }
+  
+  .child {
+    background: #da3186;
+    width: 100px;
+    height: fixed;
+    position:absolute;
+    top:15%;
+    bottom:15%;
+  }
+
+  .sublinks {
+position:absolute;
+top:20%;
+left: 30px;
+padding:5px;
+
+
+  }
+  a:link
+{
+    color:black;
+    text-decoration: none;
+    font-size: larger;
+    padding: 10px;
+    
+
+}
+
+a:visited
+{
+    color:black;
+
+}
+
+a:hover 
+{
+    color:black;
+
+}
+.parent2 {
+    background: white;
+    height: 75vh;
+    width: 75vw;
+    padding: 1em;
+  }
+  
+  .child2 {
+    background: #da3186;
+    width: 120px;
+    height: 100px;
+    position:absolute;
+    top:15%;
+    bottom:15%;
+    right:0%;
+    margin-right: 30px;
+  }
+
+  .child3 {
+    background: #da3186;
+    width: 120px;
+    height: 100px;
+    position:absolute;
+    top:50%;
+    right: 0%;
+    margin-right: 30px;
+  }
+  .sublinks2{
+    position:absolute;
+    top:16%;
+    bottom:15%;
+    right:0%;
+    margin-right: 30px;
+    font-size: large;
+  }
+
+  .sublinks3{
+    position:absolute;
+    top:50%;
+    right:0%;
+    margin-right: 30px;
+    font-size: large;
+  }
