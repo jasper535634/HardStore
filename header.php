@@ -6,5 +6,5 @@
     <body>
     <header>
         <p>hallo dit is de header</p>
-
+    <?php include "navbar.php";?>
     </header>
