@@ -2,7 +2,7 @@ body {
     background-color: #D0CECE;
 }
 
-ul {
+.navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,11 +10,11 @@ ul {
     background-color: #FFFFFF;
 }
 
-li {
+.navbar li {
     float: left;
 }
 
-li a {
+.navbar li a {
     display: block;
     color: black;
     text-align: center;
@@ -22,7 +22,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.navbar li a:hover {
     background-color: gray;
 }
 
