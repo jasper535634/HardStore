@@ -5,6 +5,6 @@
     </head>
     <body>
     <header>
-        <p>hallo dit is de header</p>
+        <h1>hallo dit is de header</h1>
     <?php include "navbar.php";?>
     </header>
