@@ -5,6 +5,10 @@
     </head>
     <body>
     <header>
-        <h1 class="headerkop">hallo dit is de header</h1>
+            <div class="headerkop">
+            <h1>HardStore</h1>
+            <!--<img class="logo" src="media/hardstore.png" alt="hardstore">-->
+            </div>
+            
     <?php include "navbar.php";?>
     </header>
