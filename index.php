@@ -4,7 +4,7 @@
 
 
 <article>
-    <p>dit is de index pagina</p>
+    <p>Content vlak</p>
 </article>
 
 </body>
