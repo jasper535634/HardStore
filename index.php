@@ -1,8 +1,7 @@
 <?php include "header.php"?>
+<?php include "linkssubnav.php"?>
 <body>
-<div class="logo">
-    <img src="media/hardstore.png" alt="hardstore">
-</div>
+
 
 <article>
     <p>dit is de index pagina</p>
