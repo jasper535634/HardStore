@@ -53,6 +53,7 @@ header{
 }
 
 article {
+    margin: 10px;
   background-color: #E7E6E6;
   height: 500px;
   display: flex;
