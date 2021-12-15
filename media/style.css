@@ -53,7 +53,10 @@ header{
 }
 
 article {
-    height: 500px;
+  background-color: #E7E6E6;
+  height: 500px;
+  display: flex;
+  flex: 3;
 }
 
 
@@ -98,51 +101,26 @@ a:visited
 
 }
 
-a:hover 
-{
+a:hover {
     color:black;
-
 }
-.parent2 {
-    background: white;
-    height: 75vh;
-    width: 75vw;
-    padding: 1em;
-  }
-  
-  .child2 {
-    background: #da3186;
-    width: 120px;
-    height: 100px;
-    position:absolute;
-    top:15%;
-    bottom:15%;
-    right:0%;
-    margin-right: 30px;
-  }
 
-  .child3 {
-    background: #da3186;
-    width: 120px;
-    height: 100px;
-    position:absolute;
-    top:50%;
-    right: 0%;
-    margin-right: 30px;
-  }
-  .sublinks2{
-    position:absolute;
-    top:16%;
-    bottom:15%;
-    right:0%;
-    margin-right: 30px;
-    font-size: large;
-  }
+.subnav_left{
+  position: inherit;
+  background: #DA3186;
+  flex: 1;
+  padding: 20px;
+  width: 100px;
+  margin-right: 100px;
+}
 
-  .sublinks3{
-    position:absolute;
-    top:50%;
-    right:0%;
-    margin-right: 30px;
-    font-size: large;
-  }
+.subnav_left li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 1rem;
+	text-decoration: none;
+}
+.subnav_left li a:hover {
+	background-color:#2c3e50;
+}
