@@ -113,6 +113,7 @@ a:hover {
   padding: 20px;
   width: 100px;
   margin-right: 100px;
+  list-style-type: none;
 }
 
 .subnav_left li a{
