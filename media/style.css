@@ -132,6 +132,6 @@ section{
 }
 
 a.login{
-    position: relative;
-    left:1000px;
+    position:absolute;
+    right:20px;
 }
