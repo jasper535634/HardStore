@@ -5,6 +5,9 @@ body {
 }
 
 .navbar{
+
+    position: relative;
+
     list-style-type: none;
     margin: 20px;
     padding: 0;
@@ -132,11 +135,11 @@ section{
 }
 
 a.login{
-    position: relative;
-    left:1000px;
+    position: absolute;
+    right:  50px;
 }
 
 .winkelm{
-    position: relative;
+    position: absolute;
     right: 0px;
 }
