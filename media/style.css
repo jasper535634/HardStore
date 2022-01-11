@@ -102,14 +102,12 @@ a:hover {
 }
 
 .subnav_left{
-<<<<<<< HEAD
     position: inherit;
     background: #DA3186;
     flex: 1;
     padding: 20px;
     width: 100px;
     margin-right: 100px;
-=======
   position: inherit;
   background: #DA3186;
   flex: 1;
@@ -117,7 +115,6 @@ a:hover {
   width: 100px;
   margin-right: 100px;
   list-style-type: none;
->>>>>>> 04133bffe13a3232d0f231afc6c09586b3e74e74
 }
 
 .subnav_left li a{
