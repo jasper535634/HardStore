@@ -1,11 +1,14 @@
 <?php include "header.php"?>
-<?php include "linkssubnav.php"?>
 <body>
+
+<section>
+
+<?php include "linkssubnav.php"?>
+
 <article>
     <p>Content vlak</p>
 </article>
+</section>
 
 </body>
 <?php include "footer.php"?>
-
-jj
