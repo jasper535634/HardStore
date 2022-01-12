@@ -10,7 +10,7 @@
 <?php include "linkssubnav.php"?>
 
 <article>
-    <p>Dit is de Login pagina</p>
+    <p>Dit is de news pagina</p>
 </article>
 </section>
 
