@@ -1,10 +1,18 @@
-<html>
-<head>
+<?php include "header.php"?>
 <link rel="stylesheet" href="media/stylehazem.css">
 <link rel="stylesheet" href="media/stylejasper.css">
 <link rel="stylesheet" href="media/stylegilbert.css">
 <link rel="stylesheet" href="media/stylethijs.css">
-</head>
 <body>
+
+<section>
+
+<?php include "linkssubnav.php"?>
+
+<article>
+    <p>Dit is de winkelmand pagina</p>
+</article>
+</section>
+
 </body>
-</html>
+<?php include "footer.php"?>
