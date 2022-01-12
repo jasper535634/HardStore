@@ -4,34 +4,6 @@ body {
     margin: 0;
 }
 
-.navbar{
-
-    position: relative;
-
-    list-style-type: none;
-    margin: 20px;
-    padding: 0;
-    overflow: hidden;
-    background-color: #FFFFFF;
-}
-
-.navbar li {
-    float: left;
-}
-
-.navbar li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-.navbar li a:hover {
-    background-color: gray;
-}
-
-
 .footer{
     position: absolute;
     bottom: 0;
