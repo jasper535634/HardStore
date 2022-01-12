@@ -24,3 +24,8 @@
 .navbar li a:hover {
     background-color: gray;
 }
+
+.winkelmand{
+    position: absolute;
+    right: 0px;
+}
