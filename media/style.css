@@ -108,5 +108,16 @@ section{
 
 a.login{
     position: absolute;
-    right:  50px;
+    right:  150px;
+}
+
+.heading_c{
+    position: relative;
+}
+
+.logo_img{
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    z-index: 2;
 }
