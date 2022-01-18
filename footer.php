@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="media/stylethijs.css">
     <footer class="footer">
-        <p>dit is de footer</p>
+        <p>&#169; Hardstore</p>
     </footer>
 
 </body>
