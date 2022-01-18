@@ -16,5 +16,9 @@ Dinsdag 18 januari{
     Jasper, Hazem, Thijs.
 
     Op school:
-    
+    Login mooier gemaakt.
+    Article recht gezet
+    navbar gefixt
+    Inhoud van paginas
+
 }
