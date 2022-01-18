@@ -35,6 +35,7 @@ article {
     background-color: #E7E6E6;
     height: 500px;
     display: flex;
+    right: -1px;;
     flex: 6;
 }
 
