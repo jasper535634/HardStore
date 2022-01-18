@@ -8,7 +8,7 @@
 <section>
 
 
-<article>
+<article class= "art_zonder_sidenav">
     <p>Dit is de winkelmand pagina</p>
 </article>
 </section>

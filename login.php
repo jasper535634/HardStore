@@ -14,7 +14,7 @@
 
 
 
-<article>
+<article class="art_zonder_sidenav">
 
 <div class="login">
 <h2>Login</h2>
