@@ -20,11 +20,12 @@
 <h2>Login</h2>
 
 <form>
-    <label for="fname"></label><br>
-    <input type="text" id="fname" name="fname" placeholder="First name..."><br>
-    <label for="lname"></label><br>
-    <input type="text" id="lname" name="lname" placeholder="Last name..."><br><br>
-    <input type="submit" value="Submit" href="#">
+    <label for="email"></label><br>
+    <input type="text" id="email" name="email" placeholder="E-mail adress..."><br>
+    <label for="password"></label><br>
+    <input type="text" id="password" name="password" placeholder="Password..."><br><br>
+    <input type="submit" value="Login" class="loginbutton" href="#">
+    <input type="submit" value="Register" class="loginbutton" href="#">
 </form> 
 
 </div>

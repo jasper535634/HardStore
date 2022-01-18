@@ -51,3 +51,9 @@
 .art_zonder_sidenav{
     margin-left: 20px;
 }
+
+.loginbutton{
+    background-color: #d1629a;
+    border-radius: 10px;
+    padding: 0.5em;
+}
