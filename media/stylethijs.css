@@ -1,11 +1,20 @@
 .navbar{
-
     position: relative;
     list-style-type: none;
     margin: 20px;
     padding: 0;
     overflow: hidden;
-    background-color: inherit;
+    background-color: White;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    margin: 0px;
 }
 
 .navbar li {
