@@ -7,7 +7,6 @@
 
 <section>
 
-<?php include "linkssubnav.php"?>
 
 <article>
     <p>Dit is de winkelmand pagina</p>

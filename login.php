@@ -7,7 +7,7 @@
 
 <section>
 
-<?php include "linkssubnav.php"?>
+
 
 <article>
     <p>Dit is de Login pagina</p>
