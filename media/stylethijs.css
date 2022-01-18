@@ -37,3 +37,13 @@
     position: absolute;
     right: 100px;
 }
+
+.login{
+    background-image: radial-gradient(#DA3186  35%, #d45d99  40%, #E7E6E6 70%);
+    padding: 3em;
+    position: relative;
+    left: 650px;
+    align-self: center;
+    text-align: center;
+    display: block;
+}

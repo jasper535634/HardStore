@@ -16,6 +16,7 @@
 
 <article>
 
+<div class="login">
 <h2>Login</h2>
 
 <form>
@@ -26,7 +27,9 @@
     <input type="submit" value="Submit" href="#">
 </form> 
 
+</div>
 </article>
+
 </section>
 
 </body>
