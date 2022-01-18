@@ -7,7 +7,7 @@
     background-color: White;
 }
 .footer{
-    position: absolute;
+    position: static;
     bottom: 0;
     width: 100%;
     background-color: white;
@@ -41,7 +41,7 @@
 .login{
     background-image: radial-gradient(#d1629a  1%, #E7E6E6 60%);
     padding: 9em;
-    position: relative;
+    position: absolute;
     left: 510px;
     align-self: center;
     text-align: center;
