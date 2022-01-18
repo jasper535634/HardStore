@@ -39,10 +39,10 @@
 }
 
 .login{
-    background-image: radial-gradient(#DA3186  35%, #d45d99  40%, #E7E6E6 70%);
-    padding: 3em;
+    background-image: radial-gradient(#d1629a  1%, #E7E6E6 60%);
+    padding: 9em;
     position: relative;
-    left: 650px;
+    left: 510px;
     align-self: center;
     text-align: center;
     display: block;
