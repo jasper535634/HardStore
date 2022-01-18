@@ -14,6 +14,9 @@ body {
     color: white;
     margin: 0px;
 }
+.footer p {
+    text-align: left;
+}
 header{
     max-height: 10em;
 }
