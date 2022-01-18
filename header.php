@@ -4,12 +4,14 @@
     <title>HardStore</title>
     </head>
     <body>
-    <header >
-            
+
+<header>
 <h1 id="hardstore">HardStore</h1>
-            
-        
-<img class="logoimg" src="media/hardstore.png" alt="hardstore">
-        
-    <?php include "navbar.php";?>
-    </header>
+
+<div class="heading_c">                      
+<img class="logo_img" src="media/hardstore2.png" alt="hardstore">
+</div>
+
+<?php include "navbar.php";?>     
+</header>
+  

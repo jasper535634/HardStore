@@ -1,12 +1,11 @@
 .navbar{
 
     position: relative;
-
     list-style-type: none;
     margin: 20px;
     padding: 0;
     overflow: hidden;
-    background-color: #FFFFFF;
+    background-color: inherit;
 }
 
 .navbar li {
@@ -27,5 +26,5 @@
 
 .winkelmand{
     position: absolute;
-    right: 0px;
+    right: 100px;
 }
