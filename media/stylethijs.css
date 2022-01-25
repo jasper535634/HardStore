@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     position: relative;
     list-style-type: none;
     margin: 20px;
@@ -6,7 +6,8 @@
     overflow: hidden;
     background-color: White;
 }
-.footer{
+
+.footer {
     position: fixed;
     bottom: 10px;
     background-color: white;
@@ -32,27 +33,54 @@
     background-color: gray;
 }
 
-.winkelmand{
+.winkelmand {
     position: absolute;
     right: 100px;
 }
 
-.login{
-    background-image: radial-gradient(#d1629a  1%, #E7E6E6 60%);
-    padding: 9em;
+.login {
+    background-image: radial-gradient(#d1629a 1%, #E7E6E6 60%);
+    padding: 8em;
     position: absolute;
     left: 510px;
     align-self: center;
     text-align: center;
     display: block;
+    /* top: 100px; */
 }
 
-.art_zonder_sidenav{
-    margin-left: 20px;
+.art_zonder_sidenav {
+    margin: 10px;
+    background-color: #E7E6E6;
+    height: 500px;
+    display: flex;
+    flex: 9;
 }
 
-.loginbutton{
+.loginbutton {
     background-color: #d1629a;
     border-radius: 10px;
     padding: 0.5em;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    height: 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+    position: relative;
+    top: 100px;
+    background: #D02D7E;
+    color: white;
 }

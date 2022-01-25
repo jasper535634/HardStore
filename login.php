@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html>
-<?php include "header.php" ?>
 
-<body>
+<?php include "header.php" ?>
 
     <section>
 
-
-
-
-
-        <article class="art_zonder_sidenav">
+        <article>
 
             <div class="login">
                 <h2>Login</h2>
@@ -29,7 +22,5 @@
 
     </section>
 
-</body>
 <?php include "footer.php" ?>
 
-</html>
