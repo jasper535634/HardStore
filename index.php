@@ -1,18 +1,15 @@
-<?php include "header.php"?>
-<link rel="stylesheet" href="media/stylehazem.css">
-<link rel="stylesheet" href="media/stylejasper.css">
-<link rel="stylesheet" href="media/stylegilbert.css">
-<link rel="stylesheet" href="media/stylethijs.css">
+<?php include "header.php" ?>
+
 <body>
 
-<section>
+    <section>
 
-<?php include "linkssubnav.php"?>
+        <?php include "linkssubnav.php" ?>
 
-<article>
-    <p>Content vlak</p>
-</article>
-</section>
+        <article>
+            <p>Content vlak</p>
+        </article>
+    </section>
 
 
-<?php include "footer.php"?>
+    <?php include "footer.php" ?>

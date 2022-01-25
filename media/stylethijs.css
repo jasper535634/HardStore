@@ -7,8 +7,8 @@
     background-color: White;
 }
 .footer{
-    position: static;
-    bottom: 0;
+    position: relative;
+    bottom: -100;
     width: 98%;
     background-color: white;
     padding: 10px;
