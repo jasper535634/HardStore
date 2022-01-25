@@ -6,7 +6,7 @@
 <?php include "linkssubnav.php"?>
 
 <article>
-    <p>Dit is de news pagina</p>
+    <p>Dit is de shop pagina</p>
 </article>
 </section>
 
