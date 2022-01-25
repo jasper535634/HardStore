@@ -38,8 +38,11 @@ article {
     background-color: #E7E6E6;
     height: 500px;
     display: flex;
-    right: -1px;;
-    flex: 6;
+    flex: 9;
+}
+
+article p{
+    margin: 10px;
 }
 
 .parent {
@@ -84,24 +87,20 @@ a:hover {
     position: inherit;
     background: #DA3186;
     flex: 1;
-    padding: 20px;
     width: 100px;
-    margin-right: 100px;
-  position: inherit;
-  background: #DA3186;
-  flex: 1;
-  padding: 20px;
-  width: 100px;
-  margin-right: 100px;
-  list-style-type: none;
+    margin-right: 20px;
+    position: inherit;
+    background: #DA3186;
+    list-style-type: none;
 }
 
 .subnav_left li a{
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 1rem;
-	text-decoration: none;
+    display: block;
+    margin-right: 30px;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
 }
 .subnav_left li a:hover {
 	background-color:#2c3e50;
