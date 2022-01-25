@@ -26,5 +26,8 @@ Dinsdag 18 januari{
 Dinsdag 25 januari{
     Jasper en Thijs
 
+    Footer gefixt,
+    Contact pagina bij goed,
+    een begin aan de shop pagina
     
 }
