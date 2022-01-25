@@ -39,7 +39,7 @@ article {
     height: 500px;
     display: flex;
     right: -1px;;
-    flex: 6;
+    flex: 9;
 }
 
 .parent {
@@ -86,14 +86,10 @@ a:hover {
     flex: 1;
     padding: 20px;
     width: 100px;
-    margin-right: 100px;
-  position: inherit;
-  background: #DA3186;
-  flex: 1;
-  padding: 20px;
-  width: 100px;
-  margin-right: 100px;
-  list-style-type: none;
+    margin-right: 20px;
+    position: inherit;
+    background: #DA3186;
+    list-style-type: none;
 }
 
 .subnav_left li a{
