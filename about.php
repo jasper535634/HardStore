@@ -1,6 +1,6 @@
 <?php include "header.php"?>
 
-<body>
+
 
 <section>
 
@@ -11,5 +11,5 @@
 </article>
 </section>
 
-</body>
+
 <?php include "footer.php"?>
