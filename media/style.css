@@ -36,7 +36,7 @@ header{
 article {
     margin: 10px;
     background-color: #E7E6E6;
-    height: 500px;
+    height: 1000px;
     display: flex;
     flex: 9;
 }
