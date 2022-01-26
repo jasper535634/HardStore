@@ -81,6 +81,19 @@
 .fa-instagram {
     position: relative;
     top: 100px;
+    left:-200px;
     background: #D02D7E;
     color: white;
+}
+
+.email{
+    position: relative;
+    top: 105px;
+    text-align: center;
+    left: -100px;
+    background: #D02D7E;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
 }

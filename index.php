@@ -6,7 +6,7 @@
 
     <article>
         <p>Dit is de home pagina.<br><br>
-        Welkom<br>bij onze Hardstore opdracht</p>
+        Welkom bij onze Hardstore opdracht</p>
     </article>
 </section>
 
