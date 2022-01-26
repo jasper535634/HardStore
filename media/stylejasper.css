@@ -4,15 +4,19 @@
     background-color: #9B1E5D;
     text-align: center;
 }
+
 .flex_container{
-    display: flex;
-    
+    width: auto;
 }
 .container{
-    display: flex;
+position: relative;
+display: flex;
+justify-content: space-between;
+width: 100%;
 }
+
 .content{
-    display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
+    
     
 }

@@ -22,7 +22,7 @@
             <div class="content"><p>info over products</p></div>
             <div class="content"><p>prijs vooraad in winkelmantje</p></div>
         </div>
-    </div>
+    </div>    
 </article>
 </section>
 
