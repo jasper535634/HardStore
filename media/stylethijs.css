@@ -8,7 +8,7 @@
 }
 
 .footer {
-    position: fixed;
+    position: inherit;
     bottom: 10px;
     background-color: white;
     padding: 10px;

@@ -5,7 +5,7 @@ body {
 }
 
 .footer{
-    position: fixed;
+    position: inherit;
     bottom: 0;
     width: 100%;
     background-color: #777;
